@@ -1,15 +1,2 @@
-Flask
-Flask-JWT-Extended
-Flask-RESTful
-Flask-SQLAlchemy
-PyJWT
+Instapy
 requests
-SQLAlchemy
-passlib
-uwsgi
-PyQRCode
-pypng
-flask-socketio
-gevent
-gevent-websocket
-eventlet
