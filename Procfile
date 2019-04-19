@@ -1,1 +1,1 @@
-web: uwsgi uwsgi.ini
+worker: python follow_unfollow.py
