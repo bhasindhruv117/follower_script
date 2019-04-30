@@ -2,8 +2,8 @@ from instapy import InstaPy
 from instapy import smart_run
 
 # login credentials
-insta_username = 'pythonicness'
-insta_password = 'πT#0n|)m'
+insta_username = 'username'
+insta_password = 'password'
 
 # get an InstaPy session!
 # set headless_browser=True to run InstaPy in the background
